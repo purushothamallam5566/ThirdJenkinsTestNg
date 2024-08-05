@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.testNg.in.LandingPage">
+        <methods>
+          <include name="landingMethod"/>
+        </methods>
+      </class> <!-- com.testNg.in.LandingPage -->
+      <class name="com.testNg.in.LoginClass">
+        <methods>
+          <include name="loginMethod"/>
+        </methods>
+      </class> <!-- com.testNg.in.LoginClass -->
+      <class name="com.testNg.in.RegisterClass">
+        <methods>
+          <include name="registerMethod"/>
+        </methods>
+      </class> <!-- com.testNg.in.RegisterClass -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

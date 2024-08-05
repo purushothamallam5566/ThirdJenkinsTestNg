@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-04T23:29:20 IST" name="Suite" finished-at="2024-08-04T23:29:21 IST" duration-ms="332">
+    <groups>
+    </groups>
+    <test started-at="2024-08-04T23:29:20 IST" name="Test" finished-at="2024-08-04T23:29:21 IST" duration-ms="332">
+      <class name="com.testNg.in.LandingPage">
+        <test-method signature="landingMethod()[pri:0, instance:com.testNg.in.LandingPage@55ca8de8]" started-at="2024-08-04T23:29:20 IST" name="landingMethod" finished-at="2024-08-04T23:29:21 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingMethod -->
+      </class> <!-- com.testNg.in.LandingPage -->
+      <class name="com.testNg.in.RegisterClass">
+        <test-method signature="registerMethod()[pri:0, instance:com.testNg.in.RegisterClass@17c386de]" started-at="2024-08-04T23:29:21 IST" name="registerMethod" finished-at="2024-08-04T23:29:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerMethod -->
+      </class> <!-- com.testNg.in.RegisterClass -->
+      <class name="com.testNg.in.LoginClass">
+        <test-method signature="loginMethod()[pri:0, instance:com.testNg.in.LoginClass@5af97850]" started-at="2024-08-04T23:29:21 IST" name="loginMethod" finished-at="2024-08-04T23:29:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod -->
+      </class> <!-- com.testNg.in.LoginClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
